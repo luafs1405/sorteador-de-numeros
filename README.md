@@ -1,6 +1,5 @@
 <h1>Sorteador de números</h1>
 
-<h2> Sobre</h2>
 
 
 ## Tecnologias
